@@ -1,0 +1,18 @@
+//
+//  main.m
+//  SEMobileApp
+//
+//  Created by Nopporn Kittiprasert on 4/18/56 BE.
+//  Copyright (c) 2556 KMITL. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+#import "AppDelegate.h"
+
+int main(int argc, char *argv[])
+{
+    @autoreleasepool {
+        return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
+    }
+}
